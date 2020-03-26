@@ -23,7 +23,7 @@ import First_time.Locators
 bb = First_time.Actions.Actions()
 bb.Autorization()
 bb.Go_to_Workspace()
-bb.
+#bb.
 
 """Создать, удалить дело"""
 def first_test(object):
